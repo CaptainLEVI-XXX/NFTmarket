@@ -1,4 +1,4 @@
-# task_BDintern
+# opensea like smart contract
 marketplace for NFT where currency is ERC20 token
 
 1: first deploy the ERC20 TOKEN
